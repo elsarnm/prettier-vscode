@@ -1,4 +1,8 @@
 {
+  "name": "prettier-config-example",
+  "scripts": {
+    "format": "prettier --write 'projectA/*.js' 'projectB/*.js'"
+  },
   "name": "prettier-vscode",
   "displayName": "Prettier - Code formatter",
   "description": "Code formatter using prettier",
